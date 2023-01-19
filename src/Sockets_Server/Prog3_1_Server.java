@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.net.ServerSocket;
 import java.net.Socket;
 
+//programa con un servidor escuchando que cliente se conecta y le devuelve el numero de cliente 
 public class Prog3_1_Server {
 	
 	//declaramos la variable del puerto 
@@ -14,7 +15,6 @@ public class Prog3_1_Server {
 		
 		//constructor
 		public Prog3_1_Server() {
-			
 			
 			try {
 				
